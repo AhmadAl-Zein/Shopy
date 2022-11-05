@@ -1,2 +1,2 @@
 # Shopy
-Code isn't completely pushed..
+Small E-Commerce Mobile Application
